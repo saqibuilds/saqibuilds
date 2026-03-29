@@ -1,5 +1,5 @@
-# 💫 About Me:
-Saqib · Data Science Student 🇵🇰<br>2nd semester student learning Python and data science.<br>I build small projects to practice what I learn and document them here.<br>Still figuring things out but staying consistent.<br><br>Open to connecting.
+# 💫 Introduction:
+Saqib Ilyas Tanoli · Data Science Student 🇵🇰<br>2nd semester student learning Python and Data Science.<br>I build small projects to practice what I learn and document them here.<br>Still figuring things out but staying consistent.<br><br>Open to connecting.
 
 
 ## 🌐 Socials:
